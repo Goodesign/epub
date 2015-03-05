@@ -57,6 +57,9 @@ Voce podera dar incio ao seu aprendizado em ebook ( formato epub) nele encontra-
 - http://idpf.org/sites/default/files/digital-book-conference/presentations/db2012/DB2012_Liz_Castro.pdf
 - http://www.idpf.org/accessibility/guidelines/
 
+###Conheça! [Goodesign.com.br](http://www.goodesign.com.br)
+
+
 
 
 
