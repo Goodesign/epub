@@ -1,21 +1,31 @@
-Arquivo base para EPUB 3.0
-========================
+# Arquivo base para EPUB 3.0
 
-- arvore de arquivos 
-# Dillinger
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
+Antes de arriscar a mexer nesses arquivos saiba que vc vai precisar saber: ( html, css, e alguns programas )
 
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
+###Arquivos necessarios:
+- notepad++ (  ou qualquer um q edite codigo)
+- leitor reader ( adobe digital edition)
+- Epub pack http://sourceforge.net/projects/epubpack/
 
-Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  As [John Gruber] writes on the [Markdown site] [1]:
+### Arvore dos arquivos
+EPUB/css
+- estilo.css ( configura aparencia)
 
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
+EPUB/img ( adiciona as imgs)
+- capa.jpg 
+
+EPUB/xhtml ( seus textos e sumarios)
+- capa.xhtml
+- capitulo01.xhtml
+- capitulo02.xhtml
+- capitulo03.xhtml
+- nav.xhtml
+- titulo.xhtml
+
+/EPUB/package.opf ( descricao dos arquivos contidos)
+
+/META-INF
+- container.xml ( direciona pro package)
+
+mimetype ( descricao do tipo de arquivo)
