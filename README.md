@@ -1,8 +1,8 @@
 Arquivo base para EPUB 3.0
 ========================
 
----- arvore de arquivos ----
- */EPUB
+- arvore de arquivos 
+>EPUB
   */css
     estilo.css
   /img
