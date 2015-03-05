@@ -29,3 +29,23 @@ EPUB/xhtml ( seus textos e sumarios)
 - container.xml ( direciona pro package)
 
 mimetype ( descricao do tipo de arquivo)
+
+###Como começar?
+
+- Pergunte-se:
+- Quantos capitulos precisarei?
+- Minha img da capa esta pronta?
+- Que aparencia desejo pro meu ebook
+- Sera layout fixo ou não?
+- Tera rodape?
+- Sera so de imagens?
+
+cada uma dessas perguntas lhe dara diferentes tipos de trabalhos.... utilize muito o google
+
+### O que posso fazer com esses arquivos?
+
+Voce podera dar incio ao seu aprendizado em ebook ( formato epub) nele encontra-se um livro "pronto" o refinamento so com aprendizado especifico! Boa sorte espero ter ajudado
+
+### Fontes ( recomendo que veja todos esses sites )
+
+
