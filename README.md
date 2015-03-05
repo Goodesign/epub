@@ -51,12 +51,12 @@ Voce podera dar incio ao seu aprendizado em ebook ( formato epub) nele encontra-
 
 ### Fontes ( recomendo que veja todos esses sites )
 
--http://tableless.com.br/epub-aprenda-a-criar-um-livro-digital/
--http://www.pagelab.com.br/2011/um-livro-de-mil-faces-parte-2/
--http://www.ibm.com/developerworks/br/xml/tutorials/x-epubtut/index.html
--http://www.ibm.com/developerworks/br/library/x-richlayoutepub/
--http://idpf.org/sites/default/files/digital-book-conference/presentations/db2012/DB2012_Liz_Castro.pdf
--http://www.idpf.org/accessibility/guidelines/
+- http://tableless.com.br/epub-aprenda-a-criar-um-livro-digital/
+- http://www.pagelab.com.br/2011/um-livro-de-mil-faces-parte-2/
+- http://www.ibm.com/developerworks/br/xml/tutorials/x-epubtut/index.html
+- http://www.ibm.com/developerworks/br/library/x-richlayoutepub/
+- http://idpf.org/sites/default/files/digital-book-conference/presentations/db2012/DB2012_Liz_Castro.pdf
+- http://www.idpf.org/accessibility/guidelines/
 
 
 
