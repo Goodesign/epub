@@ -32,9 +32,9 @@ EPUB/xhtml ( seus textos e sumarios)
 
 mimetype ( descricao do tipo de arquivo)
 
-###Como começar?
+###Como começar? Pergunte-se:
 
-- Pergunte-se:
+- Sei um pouquinho de html?
 - Quantos capitulos precisarei?
 - Minha img da capa esta pronta?
 - Que aparencia desejo pro meu ebook
@@ -42,7 +42,7 @@ mimetype ( descricao do tipo de arquivo)
 - Tera rodape?
 - Sera so de imagens?
 
-cada uma dessas perguntas lhe dara diferentes tipos de trabalhos.... utilize muito o google
+Cada uma dessas perguntas lhe dara diferentes tipos de trabalhos.... utilize muito o google
 
 ### O que posso fazer com esses arquivos?
 
