@@ -9,7 +9,6 @@ Antes de arriscar a mexer nesses arquivos saiba que vc vai precisar saber: ( htm
 - Epub pack [Link](http://sourceforge.net/projects/epubpack/)
 - Validator ( verifica se seu epub esta correto) [Link](http://validator.idpf.org)
 - Amostras de epub [Link](https://code.google.com/p/epub-samples/downloads/list)
-- 
 
 ### Arvore dos arquivos
 EPUB/css
