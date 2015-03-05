@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <dc:identifier id="uid">code.google.com.epub-samples.epub30-spec</dc:identifier>
+        <dc:title>Livro</dc:title>
+        <dc:creator>oscar</dc:creator>
+        <dc:language>pt-br</dc:language>
+        <meta property="dcterms:modified">2015-03-05T12:27:00Z</meta>
+     </metadata>
+ <manifest>
+      <item href="xhtml/capa.xhtml" id="capa" media-type="application/xhtml+xml"/>
+      <item id="nav" href="xhtml/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+      <item href="xhtml/titulo.xhtml" id="tit" media-type="application/xhtml+xml"/>
+      <item href="xhtml/capitulo01.xhtml" id="cap01" media-type="application/xhtml+xml"/>
+      <item href="xhtml/capitulo02.xhtml" id="cap02" media-type="application/xhtml+xml"/>
+      <item href="xhtml/capitulo03.xhtml" id="cap03" media-type="application/xhtml+xml"/>
+      <item href="css/estilo.css" media-type="text/css" id="css"/>
+      <item href="img/capa.jpg" media-type="image/jpeg" id="ci" properties="cover-image"/>
+   </manifest>
+      <spine>
+         <itemref idref="capa"/>
+         <itemref idref="tit"/>
+         <itemref idref="cap01"/>
+         <itemref idref="cap02"/>
+         <itemref idref="cap03"/>
+      </spine>
+   <guide>
+        <reference href="xhtml/capa.xhtml" type="cover" title="Capa"/>
+   </guide>
+   </package>

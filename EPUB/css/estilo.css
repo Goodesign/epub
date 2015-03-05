@@ -1,0 +1,59 @@
+/* ALTERA:
+            -fundo
+            -Alinhamento do texto
+            -fonte (estilo)
+            -Cor do fundo
+            -Tipo de fonte
+            -altera estilo do paragrafo
+            -altera primeira lera paragrafo
+            - margens */
+
+body {
+    margin: 0px;
+}
+
+body.reflow {
+    background-color: white;
+    text-align: justify;
+    text-justify: inter-word;
+    font-family: arial, helvetica, sans-serif;
+    margin: 1.875em 0.625em 1.25em 0.625em;
+}
+
+
+p {
+    text-indent: 1.5em;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+p.first {
+    text-indent: 0em;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+p.first::first-letter {
+    font-size : 300%;
+    font-weight : bold;
+    float : left;
+    width : 0.8em;
+    color : #000000;
+    line-height: 35px;
+    padding-top: 5px;
+    padding-right: 3px;
+
+}
+h1 {
+font-size: 1.6em;
+margin-bottom: 1.7em;
+text-align: center;
+
+}
+
+body.capaTitulo {
+    margin: 0px 0px 0px 0px;
+}
+
+/* =====capa==== */
+img.capa {
+    max-width:100%; }
