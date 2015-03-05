@@ -43,6 +43,8 @@ p.first::first-letter {
     padding-right: 3px;
 
 }
+
+/* =====  Capitulo ===== */
 h1 {
 font-size: 1.6em;
 margin-bottom: 1.7em;
@@ -50,10 +52,31 @@ text-align: center;
 
 }
 
+
+/* =====capa==== */
+img.capa {
+    max-width:100%;
+}
+
 body.capaTitulo {
     margin: 0px 0px 0px 0px;
 }
 
-/* =====capa==== */
-img.capa {
-    max-width:100%; }
+/* =====  Capa texto ==== */
+
+div.pai {
+        height: 400px;
+}
+div.filho {
+    padding-top: 50%;
+}
+div h1.titulo {
+    font-family: arial, helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 200%;
+    margin-bottom: 3%;
+}
+div h1.autor {
+    font-family: arial, helvetica, sans-serif;
+    font-size: large;
+}
