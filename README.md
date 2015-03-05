@@ -7,7 +7,7 @@ Antes de arriscar a mexer nesses arquivos saiba que vc vai precisar saber: ( htm
 - notepad++ (  ou qualquer um q edite codigo)
 - leitor reader ( adobe digital edition)
 - Epub pack http://sourceforge.net/projects/epubpack/
-- Validator ( verifica se seu epub esta correto) `link <https://http://validator.idpf.org>'
+- Validator ( verifica se seu epub esta correto) [Read more words!](docs/more_words.md)
 
 ### Arvore dos arquivos
 EPUB/css
